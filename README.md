@@ -1,2 +1,3 @@
-# odingProject-recursion
-Assignment related to recursive functions.
+## Recursion
+
+Odin Project assignment related to recursive functions.
